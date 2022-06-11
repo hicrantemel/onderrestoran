@@ -1,0 +1,31 @@
+﻿
+
+.boxer .box-row {
+    display: table-row;
+    vertical-align: inherit;
+    border-color: inherit;
+    background-color: #efefef;
+    border-collapse: collapse;
+}
+
+
+.boxer .box {
+    color: #ffffff !important;
+    background-color: #ff8b1a;
+    font-weight: normal;
+    vertical-align: middle;
+    height: 70px;
+    display: table-cell;
+    border: 1px solid white;
+    text-align: center;
+    font-size: 14px;
+    width: auto;
+}
+
+.boxer  .box {
+    display: table-cell;
+    text-align: left;
+    border: 1px solid white;
+    vertical-align: middle;
+    width: auto;
+}

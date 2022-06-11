@@ -1,0 +1,17 @@
+VERİ TABANI İLE İLGİL HER ŞEY veri tabanı tablola KLASÖRÜNÜN İÇERİSİNDEDİR.
+
+VERİ TABANI
+ADI: onderes
+DİL: utf8mb4_turkish_ci
+TABLOLAR: iletisim, menu, rezervasyon, login
+
+Eğer sayfa açılmazsa /index.php yazın.
+http://localhost/onderes/index.php
+
+ADMİN giriş için giris.php yazın.
+http://localhost/onderes/giris.php
+
+ADMİN KULLANICI ADI: H_tml0610
+ADMİN ŞİFRE: 123456
+
+
